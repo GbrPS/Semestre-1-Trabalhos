@@ -1,0 +1,45 @@
+body{ background-color: rgb(241, 229, 206);
+
+}
+
+header{
+    background-color: rgb(25, 52, 65);
+    padding: 30px;
+color: white;
+
+}
+
+p{
+
+}
+
+.box{
+    text-align: center;
+    padding: 8px;
+}
+
+
+
+ image{text-align: center;
+
+}
+figure{
+    margin: 0 auto;
+    border: 1px solid black;
+    background-color: white;
+    width: 300px;
+    padding: 20px;
+    
+}
+
+figcaption{
+font-size: 12pt;
+
+}
+
+#rodapé{
+    background-color: rgb(145, 170, 157);
+padding: 30px;
+color: white;
+text-align: center;
+}
